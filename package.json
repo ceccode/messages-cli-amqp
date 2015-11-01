@@ -1,0 +1,8 @@
+{
+  "name": "messages-cli-amqp",
+  "description": "amqp example cli app",
+  "version": "0.0.1",
+  "dependencies": {
+    "amqp": "^0.2.4"
+  }
+}
